@@ -17,8 +17,7 @@ The raw dataset (`Raw - Original_XYZ_StoreDataAnalysis.xlsx`) contained inconsis
 ## 📊 Dashboard & Visualizations
 An interactive dashboard was built using Excel Pivot Charts, controlled by a left-aligned navigation panel with slicers for **Month, Channel, Gender, and Status**. 
     
-*(Insert Dashboard Screenshot Here: `<img width="1280" height="835" alt="XYZSalesDashboard" src="https://github.com/user-attachments/assets/fed2e3b8-50c5-4cee-8d39-0a30d2466e97" />
-![Dashboard](name-of-your-screenshot-file.png)`)*
+*(Insert Dashboard Screenshot Here: `<img width="1280" height="835" alt="XYZSalesDashboard" src="https://github.com/user-attachments/assets/9f57eca6-2f0d-4835-b5e7-bd4fd9ed46a1" />*
 
 ## 🎯 Business Questions Answered (Project Targets)
 **1. Compare the sales and orders using a single chart:** 
